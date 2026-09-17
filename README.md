@@ -1,2 +1,2 @@
 # snRNA-seq-of-IVSCT-and-control-MAPT-mice
-We performed single-nucleus RNA sequencing (snRNA-seq) of hippocampal and cortical nuclei from IVSCT and control MAPT mice to define the transcriptomic signatures underlying pathological progression in IVSCT.
+This github page provides scripts and codes we used to analyze the snRNA-seq of MAPT IVS10+16 C>T KI mice, which is a humanized mouse model of 4R tauopathy. We performed single-nucleus RNA sequencing of hippocampal and cortical nuclei from MAPT IVS10+16 C>T KI mice and control MAPT mice to define the transcriptomic signatures underlying pathological progression in  MAPT IVS10+16 C>T KI.
